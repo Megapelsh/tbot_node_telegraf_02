@@ -1,0 +1,19 @@
+{
+  "name": "tbot02_rasta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megapelsh/tbot_node_telegraf_02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Megapelsh/tbot_node_telegraf_02/issues"
+  },
+  "homepage": "https://github.com/Megapelsh/tbot_node_telegraf_02#readme"
+}
